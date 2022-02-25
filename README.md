@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @l2true (alphabet l + number 2️⃣)
+- 👋 Hi, I’m @l2true (alphabet L + number 2️⃣)
 - 👀 I’m interested in `Data Science` & `Marketing`
 - 🌱 I’m currently learning `python`, `R`
 - 💌 Contact me melody980514@gmail.com
